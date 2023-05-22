@@ -129,9 +129,9 @@ and load via:
 
 ```go
 # Create a OneView client object:
-import  "github.com/HewlettPackard/oneview-golang/ov"
+import 	"github.com/HewlettPackard/oneview-golang/ov"
 
-var     ClientOV    *ov.OVClient
+var	ClientOV    *ov.OVClient
 config, _ := ov.LoadConfigFile("oneview_config.json")
 
 ovc := ClientOV.NewOVClient(
