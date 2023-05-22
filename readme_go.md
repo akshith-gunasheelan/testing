@@ -38,7 +38,7 @@ The light weight containerized version of the HPE OneView SDK for Go is availabl
 $ docker pull hewlettpackardenterprise/hpe-oneview-sdk-for-golang:v8.4.0-OV8.4
 # Run docker commands below given, which  will in turn create a sh session 
 # where you can create files, issue commands and execute the examples.
-$ docker run -it hewlettpackardenterprise/hpe-oneview-sdk-for-golang:v8.3.0-OV8.3 /bin/sh
+$ docker run -it hewlettpackardenterprise/hpe-oneview-sdk-for-golang:v8.4.0-OV8.4 /bin/sh
 ```
 
 ### Local Setup
