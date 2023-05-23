@@ -17,8 +17,8 @@
 <br /> 
  
 ## HPE OneView 
-| Endpoints                                                                                       |           Verb            |          v4200        |        v4400      |         v4600       |        v4800         |      v5000     |      v5200   |
-| ----------------------------------------------------------------------------------------------- | :-----------------------: | :----------------------: | :----------------------: | :----------------------: | :----------------------: | :----------------------: | :----------------------: | 
+|  Endpoints  |  Verb  |  v4400  |  v4600  |  v4800  |  v5000  |  v5200  | v5400               |
+| ----------------------------------------------------------------------------------------------- | :-----------------------: | :----------------------: | :----------------------: | :----------------------: | :----------------------: | :----------------------: | :----------------------: |  :-----------------: |
 | **Appliance Configuration Timeconfig**                                                          | 
 | <sub>/rest/appliance/configuration/timeconfig/locales</sub>                                     |            GET            |    :white_check_mark:    |    :white_check_mark:    |    :white_check_mark:    |    :white_check_mark:    |    :white_check_mark:    |    :white_check_mark:    |
 | **Appliance SNMPv1 Trap Destinations**                                                          | 
@@ -319,7 +319,7 @@
 | <sub>/rest/tasks/{id}</sub>                                                                     |      GET{Flat Array}      |    :white_check_mark:    |    :white_check_mark:    |    :white_check_mark:    |    :white_check_mark:    |    :white_check_mark:    |    :white_check_mark:    |
 | <sub>/rest/tasks/{id}</sub>                                                                     |           PATCH           |    :white_check_mark:    |    :white_check_mark:    |    :white_check_mark:    |    :white_check_mark:    |    :white_check_mark:    |    :white_check_mark:    |
 | **Version**                                                                 |
-| <sub>/rest/version</sub>                                                                        |            GET            | :white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
+| <sub>/rest/version</sub>                                                                        |            GET            | :white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
 | **Uplink Sets**                                                                 |
 | <sub>/rest/uplink-sets</sub>                                                                    |            GET            |    :white_check_mark:    |    :white_check_mark:    |    :white_check_mark:    |    :white_check_mark:    |    :white_check_mark:    |    :white_check_mark:    |
 | <sub>/rest/uplink-sets/{id}</sub>                                                               |            GET            |    :white_check_mark:    |    :white_check_mark:    |    :white_check_mark:    |    :white_check_mark:    |    :white_check_mark:    |    :white_check_mark:    |
