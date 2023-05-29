@@ -18,7 +18,7 @@
 
 ## HPE OneView
 
-|                              Endpoints                              |  Verb  |       v4200        |         v4400        |        v4600                | v4800    |  v5000  |  v5200  |
+|  Endpoints  |  Verb  |  v4400  |  v4600  |  v4800  |  v5000  |  v5200  |  v5400  |
 | :-----------------------------------------------------------------: | :----: | :----------------: | :-----------------: | :-----------------: | :-----------------: | :-----------------:| :-----------------:|
 | **Appliance SNMPv1 Trap Destinations**                |
 | <sub>/rest/appliance/trap-destinations</sub>             |  POST  | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |:white_check_mark:| :white_check_mark:|
@@ -118,9 +118,9 @@
 | <sub>/rest/logical-interconnect-groups/{id}</sub>          |  PUT   | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |:white_check_mark:| :white_check_mark:|
 | <sub>/rest/logical-interconnect-groups/{id}</sub>          | DELETE | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |:white_check_mark:| :white_check_mark:|
 | **Logical Switch Groups**                      |
-| <sub>/rest/logical-switch-groups</sub>                |  POST  | :white_check_mark:|:white_check_mark:|
-| <sub>/rest/logical-switch-groups/{id}</sub>             |  PUT   |:white_check_mark:|:white_check_mark:|
-| <sub>/rest/logical-switch-groups/{id}</sub>             | DELETE |:white_check_mark:|:white_check_mark:|
+| <sub>/rest/logical-switch-groups</sub>                |  POST  | 
+| <sub>/rest/logical-switch-groups/{id}</sub>             |  PUT   |
+| <sub>/rest/logical-switch-groups/{id}</sub>             | DELETE |
 | **Network Sets**                           |
 | <sub>/rest/network-sets/{id}</sub>                  |  GET   | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |:white_check_mark:| :white_check_mark:|
 | <sub>/rest/network-sets</sub>                    |  POST  | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |:white_check_mark:| :white_check_mark:|
